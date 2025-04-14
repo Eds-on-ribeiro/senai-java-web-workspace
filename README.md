@@ -1,3 +1,3 @@
-<h1>Exeercícios Java</h1>
+<h1>Exercícios Java</h1>
 
-Esses são exercícios feitos durante o curso Java.
+Esses são exercícios executados durante o curso Java.
